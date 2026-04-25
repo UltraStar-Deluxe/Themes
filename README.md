@@ -150,6 +150,7 @@ When contributing a change, it helps to:
 - Preserve author and source attribution for third-party assets.
 - Try the theme in UltraStar Deluxe before opening a pull request.
 - Mention the USDX version and the screens or modes you checked.
+- Add a screenshot or video to visualize the change or the theme in general.
 
 ## Related project
 
