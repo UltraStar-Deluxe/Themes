@@ -20,11 +20,15 @@ singing screen, score screen, party mode, jukebox, editor, and popups.
 ### Deluxe
 <img width="400" height="250" alt="screenshot0002" src="https://github.com/user-attachments/assets/886c5ed8-6616-4b67-af37-1106168388f3" />
 
-### Argon
+### Neon
+<img width="400" height="250" alt="Screenshot_2026-05-16_00-24-39" src="https://github.com/user-attachments/assets/fe7eb656-2ed2-4b44-bcf9-08f944712ee5" />
+
+
+### WorldPartyArgon
 <img width="400" height="250" alt="screenshot0008" src="https://github.com/user-attachments/assets/468fe802-eb82-40aa-8d91-8bcdf10527eb" />
 <img width="400" height="250" alt="screenshot0007" src="https://github.com/user-attachments/assets/65ec52cc-7dfc-447b-a2aa-89b14c395b54" />
 
-### Neon
+### WorldPartyNeon
 <img width="400" height="250" alt="screenshot0014" src="https://github.com/user-attachments/assets/0b05178b-4763-45b2-b54d-af0f8d0e8cd6" />
 <img width="400" height="250" alt="screenshot0012" src="https://github.com/user-attachments/assets/e827d85a-776c-41c5-b2d7-96edd45dc59f" />
 <img width="400" height="250" alt="screenshot0011" src="https://github.com/user-attachments/assets/c7a4e343-c76d-43e7-9ed2-4e8ebfe3238e" />
