@@ -2,6 +2,11 @@
 
 This repository contains themes and skins for [UltraStar Deluxe](https://usdx.eu/).
 
+**Note that except for the Modern and Deluxe theme, these themes do not work with the USDX Release version yet!**
+Please use one of these versions if you want to use any of the other themes:
+- https://github.com/UltraStar-Deluxe/USDX/pull/1129
+- https://github.com/UltraStar-Deluxe/USDX/pull/1249
+
 Themes define the position, size, color, text, and behavior of UI elements. Skins
 map the texture names used by a theme to image, video, and other asset files.
 Together they provide the visual appearance of the game menus, song selection,
