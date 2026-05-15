@@ -10,9 +10,9 @@ singing screen, score screen, party mode, jukebox, editor, and popups.
 ## Included themes (with Screenshots)
 
 ### Modern
-<img width="1600" height="900" alt="screenshot0001" src="https://github.com/user-attachments/assets/ed14a959-b47c-43a8-b999-96dcc695105e" />
+<img width="400" height="250" alt="screenshot0001" src="https://github.com/user-attachments/assets/ed14a959-b47c-43a8-b999-96dcc695105e" />
 ### Deluxe
-<img width="1600" height="900" alt="screenshot0002" src="https://github.com/user-attachments/assets/886c5ed8-6616-4b67-af37-1106168388f3" />
+<img width="400" height="250" alt="screenshot0002" src="https://github.com/user-attachments/assets/886c5ed8-6616-4b67-af37-1106168388f3" />
 ### Argon
 
 
